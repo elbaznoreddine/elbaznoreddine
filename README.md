@@ -36,9 +36,9 @@ I'm passionate about building high-quality mobile applications and backend syste
 
 ## 📫 Let's Connect
 - 💼 **Portfolio:** [Coming Soon]
-- 🔗 **LinkedIn:** [Your LinkedIn URL]
-- 🐦 **Twitter:** [Your Twitter URL]
-- 📧 **Email:** [Your Email Address]
+- 🔗 **LinkedIn:** [Coming Soon]
+- 🐦 **Twitter:** [https://x.com/home]
+- 📧 **Email:** [noreddineelbaz15@gmail.com]
 
 ---
 
